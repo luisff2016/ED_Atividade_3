@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485690005 source:c:\users\plffe\onedrive\1ufs_fernando\arq_codeblocks\edi_2016_2_turma_2_atividade_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
