@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1484075678 source:c:\users\resmony\documents\ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fila.h"
+
+1484075969 c:\users\resmony\documents\ex\fila.h
+	<math.h>
+
